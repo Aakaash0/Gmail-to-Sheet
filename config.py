@@ -1,0 +1,2 @@
+SPREADSHEET_ID = "1a5g_sVkeNp5s-JvRIXta5UO0XnD8rc7j45N9Pk3gga8"
+SHEET_NAME = "Email Logs"
